@@ -18,3 +18,7 @@
 	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/Z03/pub_dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
 	datalad-id = 87a777cc-eae0-4446-9178-4440a4eca038
 	datalad-url = webdavs://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/Z03/pub_dataset
+[submodule "INF"]
+	path = INF
+	url = ./INF
+	datalad-id = 80cc995e-7d8e-42c7-93d3-9b51ba1d77ed
