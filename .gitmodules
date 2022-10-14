@@ -8,3 +8,8 @@
 	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/C01/ProjectInfo2?type=webdav&encryption=none&exporttree=yes&url={noquery}
 	datalad-id = ef3daade-7873-4737-ad23-bff6eca284c9
 	datalad-url = webdavs://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/C01/ProjectInfo2
+[submodule "C05"]
+	path = C05
+	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/C05/pub_dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
+	datalad-id = 441ef45f-c525-468e-aeb8-5cf3b7113b16
+	datalad-url = webdavs://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/C05/pub_dataset
