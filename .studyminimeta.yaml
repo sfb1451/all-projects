@@ -1,0 +1,191 @@
+#<!-- METADATA START --> # DO NOT DELETE THIS LINE
+# All example text is surrounded with <ex> and </ex>. Please replace the example
+# text including the <ex> and </ex> with your data. Delete all non-applicable
+# lines and sections.
+
+# Attention: indentation is important and must be preserved!
+
+# information on the study the to-be-archived dataset was created for
+
+# mandatory information on to-be-archived dataset
+dataset:
+  # short name or label
+  name: SFB1451 - key mechanisms of motor control in health and disease
+
+  # current location of the dataset
+  # location: https://github.com/jsheunis/sfb1451-data-catalog
+
+  # summary of purpose and content of the dataset
+  description:
+    "This emerging catalog indexes projects of the Collaborative Research Centre 1451 (CRC1451; dt: Sonderforschungsbereich, SFB1451). This collaborative research centre brings together neuroscientists investigating genetic factors, cellular, and synaptic as well as systems/neural network processes underlying motor control in animals and humans, in both health and neuropsychiatric diseases. All investigators are committed to the CRC’s multi-faceted, iterative, and integrative agenda with the long-term goal of identifying the essential mechanisms underlying normal and pathological motor control."
+
+  # optional list of employed standard and format
+  # for automatic generation of rich metadata records
+  # (see handbook for full list)
+
+  # optional list of keyword/phrase
+  keyword:
+    - Motor control
+    - Health
+    - Disease
+    - Genetic
+    - Cellular
+    - Systems
+    - Neural
+    - Networks
+    - Animals
+    - Humans
+
+
+  # minimum of one dataset author required
+  author:
+    - neurologie-direktor@uk-koeln.de
+    - markus.aswendt@uk-koeln.de
+    - juan.baldermann@uk-koeln.de
+    - stephan.bender@uk-koeln.de
+    - matteo.bergami@uk-koeln.de
+    - ansgar.bueschges@uni-koeln.de
+    - silvia.daun@uni-koeln.de
+    - Nuk-Med-Sekretariat@uk-koeln.de
+    - eehrhardt@uni-koeln.de
+    - s.eickhoff@fz-juelich.de
+    - graziana.gatto@uk-koeln.de
+    - christian.grefkes@uk-koeln.de
+    - m.hanke@fz-juelich.de
+    - m.hoenig@fz-juelich.de
+    - dirk.isbrandt@uni-koeln.de
+    - k.ito@uni-koeln.de
+    - frank.jessen@uk-koeln.de
+    - peter.kloppenburg@uni-koeln.de
+    - natalia.kononenko@uk-koeln.de
+    - k.konrad@fz-juelich.de
+    - Tatiana.Korotkova@uk-koeln.de
+    - p.mengotti@fz-juelich.de
+    - mnawrot@uni-koeln.de
+    - nitschr@uni-muenster.de
+    - roeper@em.uni-frankfurt.de
+    - adele.rueger@uk-koeln.de
+    - michael.schroeter@uk-koeln.de
+    - tittgemeyer@sf.mpg.de
+    - thilo.van-eimeren@uk-koeln.de
+    - veerle.visser-vandewalle@uk-koeln.de
+    - s.vossel@fz-juelich.de
+    - p.h.weiss@fz-juelich.de
+    - brunhilde.wirth@uk-koeln.de
+
+  # optional list of entities that funded the creation of
+  # the dataset. This might also be a single value, i.e.:
+  #`` funding: NIH´´.
+
+  funding:
+    - Deutsche Forschungsgemeinschaft (DFG), Project number 431549029
+
+# person information, one record for every email-key used above
+person:
+  neurologie-direktor@uk-koeln.de:
+     given_name: Gereon
+     last_name: Fink
+  markus.aswendt@uk-koeln.de:
+     given_name: Markus
+     last_name: Aswendt
+  juan.baldermann@uk-koeln.de:
+     given_name: Juan Carlos
+     last_name: Baldermann
+  stephan.bender@uk-koeln.de:
+     given_name: Stephan
+     last_name: Bender
+  matteo.bergami@uk-koeln.de:
+     given_name: Matteo
+     last_name: Bergami
+  ansgar.bueschges@uni-koeln.de:
+     given_name: Ansgar
+     last_name: Büschges
+  silvia.daun@uni-koeln.de:
+     given_name: Silvia
+     last_name: Daun
+     orcid-id: 0000-0001-7342-1015
+  Nuk-Med-Sekretariat@uk-koeln.de:
+     given_name: Alexander
+     last_name: Drzezga
+  eehrhardt@uni-koeln.de:
+     given_name: Erika
+     last_name: Ehrhardt
+  s.eickhoff@fz-juelich.de:
+     given_name: Simon
+     last_name: Eickhoff
+  graziana.gatto@uk-koeln.de:
+     given_name: Graziana
+     last_name: Gatto
+  christian.grefkes@uk-koeln.de:
+     given_name: Christian
+     last_name: Grefkes
+  m.hanke@fz-juelich.de:
+     given_name: Michael
+     last_name: Hanke
+     orcid-id: 0000-0001-6398-6370
+  m.hoenig@fz-juelich.de:
+     given_name: Merle
+     last_name: Hönig
+  dirk.isbrandt@uni-koeln.de:
+     given_name: Dirk
+     last_name: Isbrandt
+  k.ito@uni-koeln.de:
+     given_name: Kei
+     last_name: Ito
+  frank.jessen@uk-koeln.de:
+     given_name: Frank
+     last_name: Jessen
+  peter.kloppenburg@uni-koeln.de:
+     given_name: Peter
+     last_name: Kloppenburg
+  natalia.kononenko@uk-koeln.de:
+     given_name: Natalia
+     last_name: Kononenko
+  k.konrad@fz-juelich.de:
+     given_name: Kerstin
+     last_name: Konrad
+  Tatiana.Korotkova@uk-koeln.de:
+     given_name: Tatiana
+     last_name: Korotkova
+  p.mengotti@fz-juelich.de:
+     given_name: Paola
+     last_name: Mengotti
+  mnawrot@uni-koeln.de:
+     given_name: Martin
+     last_name: Nawrot
+     orcid-id: 0000-0001-6398-6370
+  nitschr@uni-muenster.de:
+     given_name: Robert
+     last_name: Nitsch
+  yifat.prut@mail.huji.ac.il:
+     given_name: Yifat
+     last_name: Prut
+  roeper@em.uni-frankfurt.de:
+     given_name: Jochen
+     last_name: Roeper
+  adele.rueger@uk-koeln.de:
+     given_name: Adele
+     last_name: Rueger
+  michael.schroeter@uk-koeln.de:
+     given_name: Michael
+     last_name: Schroeter
+  tittgemeyer@sf.mpg.de:
+     given_name: Marc
+     last_name: Tittgemeyer
+  thilo.van-eimeren@uk-koeln.de:
+     given_name: Thilo 
+     last_name: van Eimeren
+  veerle.visser-vandewalle@uk-koeln.de:
+     given_name: Veerle
+     last_name: Visser-vandewalle
+  s.vossel@fz-juelich.de:
+     given_name: Simone
+     last_name: Vossel
+  p.h.weiss@fz-juelich.de:
+     given_name: Peter
+     last_name: Weiss-Blankenhorn
+  brunhilde.wirth@uk-koeln.de:
+     given_name: Brunhilde
+     last_name: Wirth  
+
+#<!-- METADATA END -->  # DO NOT DELETE THIS LINE
