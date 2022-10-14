@@ -1,0 +1,5 @@
+[submodule "B05"]
+	path = B05
+	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/B05/pub_dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
+	datalad-id = 7411dec6-abc4-45a8-890d-0451af8c6297
+	datalad-url = webdavs://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/B05/pub_dataset
