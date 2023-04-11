@@ -36,3 +36,83 @@
 	path = C06
 	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/C06/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
 	datalad-id = bede4323-23cd-40b4-b243-1e8257989da0
+[submodule "A01"]
+	path = A01
+	url = ./A01
+	datalad-id = a94e6082-4830-413c-b970-d31aa1810bb5
+[submodule "A03"]
+	path = A03
+	url = ./A03
+	datalad-id = fcd47b7e-7017-4e61-b826-1a4dc30b688b
+[submodule "A04"]
+	path = A04
+	url = ./A04
+	datalad-id = 20b22152-db10-4af7-aa3f-9b76a466b617
+[submodule "A05"]
+	path = A05
+	url = ./A05
+	datalad-id = 93bfd42e-b45f-43da-a58d-ceb8f432f36a
+[submodule "A06"]
+	path = A06
+	url = ./A06
+	datalad-id = ee671e31-3c6e-4d83-952a-cfc66c84390e
+[submodule "A07"]
+	path = A07
+	url = ./A07
+	datalad-id = db05acad-7609-4f49-b210-185f1192904f
+[submodule "B01"]
+	path = B01
+	url = ./B01
+	datalad-id = 050c144a-af16-48e8-838e-72239db1b5fc
+[submodule "B02"]
+	path = B02
+	url = ./B02
+	datalad-id = 61c48354-28bd-40ad-957e-1c1338670365
+[submodule "B03"]
+	path = B03
+	url = ./B03
+	datalad-id = d3648891-f01e-40fe-9035-cd2228977721
+[submodule "C03"]
+	path = C03
+	url = ./C03
+	datalad-id = 90e43c72-de5b-49b3-b6f5-818d0b81fc20
+[submodule "C04"]
+	path = C04
+	url = ./C04
+	datalad-id = 93803162-09b1-440c-8699-52b801136843
+[submodule "C07"]
+	path = C07
+	url = ./C07
+	datalad-id = e986a02f-d85c-4fd3-8c13-3520c526eed2
+[submodule "JRG_Gatto"]
+	path = JRG_Gatto
+	url = ./JRG_Gatto
+	datalad-id = 1b056395-538f-4a8e-9ca8-c276cd08019f
+[submodule "JRG_Valtcheva"]
+	path = JRG_Valtcheva
+	url = ./JRG_Valtcheva
+	datalad-id = bb8029ef-366f-47d2-aa12-5f4748d2b0ec
+[submodule "X01"]
+	path = X01
+	url = ./X01
+	datalad-id = 6361cd7b-7a81-4604-80b4-aceda6ecea7d
+[submodule "X02"]
+	path = X02
+	url = ./X02
+	datalad-id = 1a7c0ed9-90d8-4504-a00f-825bd740bbb2
+[submodule "X03"]
+	path = X03
+	url = ./X03
+	datalad-id = f20606c8-333a-4279-9fd6-2ddcc08fc37d
+[submodule "X04"]
+	path = X04
+	url = ./X04
+	datalad-id = 8133a629-7b88-42e9-a1b1-ea39261767d8
+[submodule "Z01"]
+	path = Z01
+	url = ./Z01
+	datalad-id = 303a5fe9-ece2-4ead-9c43-ce713784a099
+[submodule "Z02"]
+	path = Z02
+	url = ./Z02
+	datalad-id = 12c3086b-71dc-45c1-9169-1feb0bea759a
