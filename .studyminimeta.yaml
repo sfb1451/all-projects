@@ -78,7 +78,10 @@ dataset:
   #`` funding: NIH´´.
 
   funding:
-    - Deutsche Forschungsgemeinschaft (DFG), Project number 431549029
+    -
+      >-
+        Deutsche Forschungsgemeinschaft (DFG); Project number 431549029;
+        SFB1451: Key mechanisms of motor control in health and disease
 
 # person information, one record for every email-key used above
 person:
