@@ -63,12 +63,15 @@ dataset:
     - p.mengotti@fz-juelich.de
     - mnawrot@uni-koeln.de
     - nitschr@uni-muenster.de
+    - yifat.prut@mail.huji.ac.il
     - roeper@em.uni-frankfurt.de
     - adele.rueger@uk-koeln.de
     - michael.schroeter@uk-koeln.de
     - tittgemeyer@sf.mpg.de
+    - silvana.valtcheva@uk-koeln.de
     - thilo.van-eimeren@uk-koeln.de
     - veerle.visser-vandewalle@uk-koeln.de
+    - johannes.vogt@uk-koeln.de
     - s.vossel@fz-juelich.de
     - p.h.weiss@fz-juelich.de
     - brunhilde.wirth@uk-koeln.de
@@ -175,12 +178,18 @@ person:
   tittgemeyer@sf.mpg.de:
      given_name: Marc
      last_name: Tittgemeyer
+  silvana.valtcheva@uk-koeln.de:
+     given_name: Silvana
+     last_name: Valtcheva
   thilo.van-eimeren@uk-koeln.de:
      given_name: Thilo 
      last_name: van Eimeren
   veerle.visser-vandewalle@uk-koeln.de:
      given_name: Veerle
      last_name: Visser-Vandewalle
+  johannes.vogt@uk-koeln.de:
+    given_name: Johannes
+    last_name: Vogt
   s.vossel@fz-juelich.de:
      given_name: Simone
      last_name: Vossel
