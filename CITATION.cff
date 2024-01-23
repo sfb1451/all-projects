@@ -1,0 +1,113 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  SFB1451 - key mechanisms of motor control in health and
+  disease
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Gereon
+    family-names: Fink
+  - given-names: Markus
+    family-names: Aswendt
+  - given-names: Juan Carlos
+    family-names: Baldermann
+  - given-names: Stephan
+    family-names: Bender
+  - given-names: Matteo
+    family-names: Bergami
+  - given-names: Ansgar
+    family-names: Büschges
+  - given-names: Silvia
+    family-names: Daun
+  - given-names: Alexander
+    family-names: Drzezga
+  - given-names: Erika
+    family-names: Erhardt
+  - given-names: Simon
+    family-names: Eickhoff
+  - given-names: Graziana
+    family-names: Gatto
+  - given-names: Christian
+    family-names: Grefkes
+  - given-names: Michael
+    family-names: Hanke
+  - given-names: Merle
+    family-names: Hönig
+  - given-names: Dirk
+    family-names: Isbrandt
+  - given-names: Kei
+    family-names: Ito
+  - given-names: Frank
+    family-names: Jessen
+  - given-names: Peter
+    family-names: Kloppenburg
+  - given-names: Natalia
+    family-names: Kononenko
+  - given-names: Kerstin
+    family-names: Konrad
+  - given-names: Tatiana
+    family-names: Korotkova
+  - given-names: Paola
+    family-names: Mengotti
+  - given-names: Martin
+    family-names: Nawrot
+  - given-names: Robert
+    family-names: Nitsch
+  - given-names: Yifat
+    family-names: Prut
+  - given-names: Jochen
+    family-names: Roeper
+  - given-names: Adele
+    family-names: Rueger
+  - given-names: Michael
+    family-names: Schroeter
+  - given-names: Marc
+    family-names: Tittgemeyer
+  - given-names: Silvana
+    family-names: Valtcheva
+  - given-names: Thilo
+    name-particle: van
+    family-names: Eimeren
+  - given-names: Veerle
+    family-names: Visser-Vandewalle
+  - given-names: Johannes
+    family-names: Vogt
+  - given-names: Simone
+    family-names: Vossel
+  - given-names: Peter
+    family-names: Weiss-Blankenhorn
+  - given-names: Brunhilde
+    family-names: Wirth
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10556115
+abstract: >-
+  This dataset indexes projects of the Collaborative
+  Research Centre 1451 (CRC1451; dt:
+  Sonderforschungsbereich, SFB1451). This collaborative
+  research centre brings together neuroscientists
+  investigating genetic factors, cellular, and synaptic as
+  well as systems/neural network processes underlying motor
+  control in animals and humans, in both health and
+  neuropsychiatric diseases. All investigators are committed
+  to the CRC’s multi-faceted, iterative, and integrative
+  agenda with the long-term goal of identifying the
+  essential mechanisms underlying normal and pathological
+  motor control.
+keywords:
+  - Motor control
+  - Health
+  - Disease
+  - Genetic
+  - Cellular
+  - Systems
+  - Neural
+  - Networks
+  - Animals
+  - Humans
+
