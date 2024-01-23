@@ -1,5 +1,7 @@
 # SFB 1451 superdataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10556115.svg)](https://doi.org/10.5281/zenodo.10556115)
+
 This repository is a [DataLad](https://www.datalad.org/) dataset. It
 provides fine-grained data access down to the level of individual
 files, and allows for tracking future updates. In order to use this
