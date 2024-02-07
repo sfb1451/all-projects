@@ -1,140 +1,140 @@
 [submodule "B05"]
 	path = B05
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/B05/pub_dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
+	url = https://github.com/sfb1451/projects-B05
 	datalad-id = 7411dec6-abc4-45a8-890d-0451af8c6297
-	datalad-url = webdavs://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/B05/pub_dataset
+	datalad-url = https://github.com/sfb1451/projects-B05
 [submodule "C05"]
 	path = C05
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/C05/pub_dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
+	url = https://github.com/sfb1451/projects-C05
 	datalad-id = 441ef45f-c525-468e-aeb8-5cf3b7113b16
-	datalad-url = webdavs://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/C05/pub_dataset
+	datalad-url = https://github.com/sfb1451/projects-C05
 [submodule "Z03"]
 	path = Z03
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/Z03/pub_dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
+	url = https://github.com/sfb1451/projects-Z03
 	datalad-id = 87a777cc-eae0-4446-9178-4440a4eca038
-	datalad-url = webdavs://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/Z03/pub_dataset
+	datalad-url = https://github.com/sfb1451/projects-Z03
 [submodule "INF"]
 	path = INF
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/INF/pub_dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/INF/pub_dataset
+	url = https://github.com/sfb1451/projects-INF
+	datalad-url = https://github.com/sfb1451/projects-INF
 	datalad-id = 80cc995e-7d8e-42c7-93d3-9b51ba1d77ed
 [submodule "C01"]
 	path = C01
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/C01/ProjectInfo3?type=webdav&encryption=none&exporttree=yes&url={noquery}
+	url = https://github.com/sfb1451/projects-C01
 	datalad-id = 2dc82a59-82c1-444f-a440-db4cf1aca056
-	datalad-url = webdavs://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/C01/ProjectInfo3
+	datalad-url = https://github.com/sfb1451/projects-C01
 [submodule "B04"]
 	path = B04
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/B04?type=webdav&encryption=none&exporttree=yes&url={noquery}
+	url = https://github.com/sfb1451/projects-B04
 	datalad-id = 972860f9-75b9-4ecc-b546-99e1d6aad5f9
-	datalad-url = webdavs://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/B04
+	datalad-url = https://github.com/sfb1451/projects-B04
 [submodule "A02"]
 	path = A02
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/A02/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
+	url = https://github.com/sfb1451/projects-A02
 	datalad-id = 5a11d594-243e-4ca3-819b-54d10c8d6b3f
-	datalad-url = webdavs://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/A02/pub-dataset
+	datalad-url = https://github.com/sfb1451/projects-A02
 [submodule "C06"]
 	path = C06
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/C06/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/C06/pub-dataset
+	url = https://github.com/sfb1451/projects-C06
+	datalad-url = https://github.com/sfb1451/projects-C06
 	datalad-id = bede4323-23cd-40b4-b243-1e8257989da0
 [submodule "A01"]
 	path = A01
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/A01/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/A01/pub-dataset
+	url = https://github.com/sfb1451/projects-A01
+	datalad-url = https://github.com/sfb1451/projects-A01
 	datalad-id = a94e6082-4830-413c-b970-d31aa1810bb5
 [submodule "A03"]
 	path = A03
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/A03/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/A03/pub-dataset
+	url = https://github.com/sfb1451/projects-A03
+	datalad-url = https://github.com/sfb1451/projects-A03
 	datalad-id = fcd47b7e-7017-4e61-b826-1a4dc30b688b
 [submodule "A04"]
 	path = A04
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/A04/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/A04/pub-dataset
+	url = https://github.com/sfb1451/projects-A04
+	datalad-url = https://github.com/sfb1451/projects-A04
 	datalad-id = 20b22152-db10-4af7-aa3f-9b76a466b617
 [submodule "A05"]
 	path = A05
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/A05/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/A05/pub-dataset
+	url = https://github.com/sfb1451/projects-A05
+	datalad-url = https://github.com/sfb1451/projects-A05
 	datalad-id = 93bfd42e-b45f-43da-a58d-ceb8f432f36a
 [submodule "A06"]
 	path = A06
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/A06/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/A06/pub-dataset
+	url = https://github.com/sfb1451/projects-A06
+	datalad-url = https://github.com/sfb1451/projects-A06
 	datalad-id = ee671e31-3c6e-4d83-952a-cfc66c84390e
 [submodule "A07"]
 	path = A07
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/A07/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/A07/pub-dataset
+	url = https://github.com/sfb1451/projects-A07
+	datalad-url = https://github.com/sfb1451/projects-A07
 	datalad-id = db05acad-7609-4f49-b210-185f1192904f
 [submodule "B01"]
 	path = B01
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/B01/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/B01/pub-dataset
+	url = https://github.com/sfb1451/projects-B01
+	datalad-url = https://github.com/sfb1451/projects-B01
 	datalad-id = 050c144a-af16-48e8-838e-72239db1b5fc
 [submodule "B02"]
 	path = B02
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/B02/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/B02/pub-dataset
+	url = https://github.com/sfb1451/projects-B02
+	datalad-url = https://github.com/sfb1451/projects-B02
 	datalad-id = 61c48354-28bd-40ad-957e-1c1338670365
 [submodule "B03"]
 	path = B03
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/B03/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/B03/pub-dataset
+	url = https://github.com/sfb1451/projects-B03
+	datalad-url = https://github.com/sfb1451/projects-B03
 	datalad-id = d3648891-f01e-40fe-9035-cd2228977721
 [submodule "C03"]
 	path = C03
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/C03/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/C03/pub-dataset
+	url = https://github.com/sfb1451/projects-C03
+	datalad-url = https://github.com/sfb1451/projects-C03
 	datalad-id = 90e43c72-de5b-49b3-b6f5-818d0b81fc20
 [submodule "C04"]
 	path = C04
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/C04/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/C04/pub-dataset
+	url = https://github.com/sfb1451/projects-C04
+	datalad-url = https://github.com/sfb1451/projects-C04
 	datalad-id = 93803162-09b1-440c-8699-52b801136843
 [submodule "C07"]
 	path = C07
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/C07/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/C07/pub-dataset
+	url = https://github.com/sfb1451/projects-C07
+	datalad-url = https://github.com/sfb1451/projects-C07
 	datalad-id = e986a02f-d85c-4fd3-8c13-3520c526eed2
 [submodule "JRG_Gatto"]
 	path = JRG_Gatto
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/JRG_Gatto/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/JRG_Gatto/pub-dataset
+	url = https://github.com/sfb1451/projects-JRG_Gatto
+	datalad-url = https://github.com/sfb1451/projects-JRG_Gatto
 	datalad-id = 1b056395-538f-4a8e-9ca8-c276cd08019f
 [submodule "JRG_Valtcheva"]
 	path = JRG_Valtcheva
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/JRG_Valtcheva/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/JRG_Valtcheva/pub-dataset
+	url = https://github.com/sfb1451/projects-JRG_Valtcheva
+	datalad-url = https://github.com/sfb1451/projects-JRG_Valtcheva
 	datalad-id = bb8029ef-366f-47d2-aa12-5f4748d2b0ec
 [submodule "X01"]
 	path = X01
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/X01/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/X01/pub-dataset
+	url = https://github.com/sfb1451/projects-X01
+	datalad-url = https://github.com/sfb1451/projects-X01
 	datalad-id = 6361cd7b-7a81-4604-80b4-aceda6ecea7d
 [submodule "X02"]
 	path = X02
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/X02/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/X02/pub-dataset
+	url = https://github.com/sfb1451/projects-X02
+	datalad-url = https://github.com/sfb1451/projects-X02
 	datalad-id = 1a7c0ed9-90d8-4504-a00f-825bd740bbb2
 [submodule "X03"]
 	path = X03
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/X03/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/X03/pub-dataset
+	url = https://github.com/sfb1451/projects-X03
+	datalad-url = https://github.com/sfb1451/projects-X03
 	datalad-id = f20606c8-333a-4279-9fd6-2ddcc08fc37d
 [submodule "X04"]
 	path = X04
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/X04/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/X04/pub-dataset
+	url = https://github.com/sfb1451/projects-X04
+	datalad-url = https://github.com/sfb1451/projects-X04
 	datalad-id = 8133a629-7b88-42e9-a1b1-ea39261767d8
 [submodule "Z01"]
 	path = Z01
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/Z01/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/Z01/pub-dataset
+	url = https://github.com/sfb1451/projects-Z01
+	datalad-url = https://github.com/sfb1451/projects-Z01
 	datalad-id = 303a5fe9-ece2-4ead-9c43-ce713784a099
 [submodule "Z02"]
 	path = Z02
-	url = datalad-annex::https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/Z02/pub-dataset?type=webdav&encryption=none&exporttree=yes&url={noquery}
-	datalad-url = webdavs://https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/Z02/pub-dataset
+	url = https://github.com/sfb1451/projects-Z02
+	datalad-url = https://github.com/sfb1451/projects-Z02
 	datalad-id = 12c3086b-71dc-45c1-9169-1feb0bea759a
