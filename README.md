@@ -1,3 +1,6 @@
+:warning: Note: this dataset is now deprecated, and no longer maintained.
+Please refer to [sfb1451/all-datasets](https://github.com/sfb1451/all-datasets) instead.
+
 # SFB 1451 superdataset
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10556115.svg)](https://doi.org/10.5281/zenodo.10556115)
